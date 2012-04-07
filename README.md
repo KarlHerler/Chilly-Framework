@@ -22,7 +22,7 @@ Chilly front end script takes care of ajax requests and broadcasting updates. An
 ## Structure ##
 This is a basic structure for a Chilly Framework project. It's separated to a back (protected) and a front end (public).
 
-```javascript
+```
 framework
   chilly-0.2.js     // Chilly Framework back end script
 node_modules        // additional Node.js modules
